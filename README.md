@@ -10,19 +10,19 @@ image_name -> image containing the PV array <br>
 nw_corner_of_image_latitude/nw_corner_of_image_longitude/se_corner_of_image_latitude/se_corner_of_image_longitude -> latitudes and longitudes of the corners of the image. <br>
 resolution -> meters per pixel <br>
 
-1) Supervised Learning
+1) Supervised Learning <br>
 The implementation can be broadly divided into the
-following steps:
-i) Data Labelling
-ii) Data Munging
-iii) Image Segmentation
-iv) Feature Extraction 
-v) Classification (Logistic Regression and Random Forest)
-vi) Regression
+following steps: <br>
+i) Data Labelling <br>
+ii) Data Munging <br>
+iii) Image Segmentation <br>
+iv) Feature Extraction <br>
+v) Classification (Logistic Regression and Random Forest) <br>
+vi) Regression <br>
 
-2) Weakly supervised learning using CNN.
+2) Weakly supervised learning using CNN. <br>
 
-For more details, look at Final_Report.pdf
+For more details, look at Final_Report.pdf <br>
 
 
 
