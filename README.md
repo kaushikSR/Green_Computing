@@ -1,6 +1,6 @@
-## Automatic Detection of PV arrays and extracting its features from Aerial Satellite Imagery
+#Automatic Detection of PV arrays and extracting its features from Aerial Satellite Imagery
 
-# Dataset Column Descriptions (few columns not used):
+## Dataset Column Descriptions (few columns not used):
 polygon_id -> Each PV array corresponds to a polygon
 centroid_latitude/centroid_longitude -> latitude and longitude of the centroid of the polygon
 centroid_latitude_pixels/centroid_longitude_pixels -> pixel co-ordinates of the centroid of the polygon
